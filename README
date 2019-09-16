@@ -1,0 +1,8 @@
+RENAME .env-loca to .env
+
+EXECUTE THE FOLLOWING COMMANDS
+npm run dev
+php artisan serve
+
+VISIT http://127.0.0.1:8000/
+UPLOAD A CSV FILE AND VIEW CONSOLE FOR THE RESULT
